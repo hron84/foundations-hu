@@ -1,0 +1,243 @@
+# Translation memory
+
+## Hungarian capitalization rules / Magyar kis-nagybetű szabályok
+- Only capitalize the first word and proper nouns / Csak a mondat első szavát és a tulajdonneveket írjuk nagy betűvel
+- Building names in mid-sentence: titlecase / Épületnevek mondaton belül: nagy kezdőbetű (Kastély, Adóhivatal, Építész Műhely)
+- Game terms in mid-sentence: titlecase / Játékszakkifejezések mondaton belül: nagy kezdőbetű (Harcos, Dézsma kivétel: pompa)
+
+## Architectural Terms / Építészeti kifejezések
+- monument: főépület
+- guivre garden: guivre kertje (guivre is a name of a dragon)
+- cloister: kerengő (the covered walkway around monastery courtyard)
+- legacy: régies (old-style architecture, not inherited from previous game version)
+- modest: egyszerű (architectural style between rustic and abbatial)
+
+## Terms / Kifejezések
+ - levy: különadó
+ - mandate: megbízás
+ - splendour: pompa
+ - labour splendour: munkásosztályi pompa
+ - clergy splendour: papi pompa
+ - kingdom splendour: királyi pompa
+ - enact: bevezet
+ - privilege: döntés
+ - combatant: Harcos
+ - prior: Perjel
+ - abbey: Apátság
+ - preset: profil
+ - game rule: szabály
+ - game rule preset: szabály profil
+ - tax office: Adóhivatal
+ - taxation tracker: Adózási Nyomkövető
+ - builder's workshop: Építész Műhely
+ - villager: Falusi
+ - commoner: Polgár
+ - citizen: Nemes
+ - serf: jobbágy
+ - monastic: Szerzetes
+ - monastery: Kolostor
+ - treasury: Kincstár
+ - passive fortification: Passzív Védelem
+ - manor house: Kastély
+ - rustic church: Rusztikus Templom
+ - castle: Kastély
+ - great hall: Gyűlésterem
+ - dirt path: Földút
+ - stone road: Kőút
+ - paviour: Útépítő
+ - tracker: Nyomkövető
+ - HUD: HUD (felhasználói felület)
+ - help panel: súgó panel
+ - savegame: mentés
+ - mod: mod
+ - playthrough: játékmenet
+ - population: lakosság
+ - achievement: eredmény
+ - save game: mentés
+ - map: térkép
+ - terrain: terep
+ - elevation: magasság
+ - hills: dombok
+ - coastal: tengerparti
+ - fluvial: folyóvölgyi
+ - valley: völgy
+ - mountain: hegy
+ - procedural: eljárásszerűen generált
+ - community: közösség/közösségi
+ - early access: korai hozzáférés
+ - demo: demó
+ - bridge: híd
+ - fishing: halászat
+ - NDA: titoktartási megállapodás
+ - feedback: visszajelzés
+ - playtest: teszt/tesztelés
+ - user interface: felhasználói felület
+ - quality: minőség
+ - quicksave: gyors mentés
+ - camera: kamera
+ - zoom: nagyítás/kicsinyítés
+ - zone: zóna
+ - wall: fal
+ - construction: építés
+ - royal book: királyi könyv
+ - part/component: épületrész
+ - brush: ecset
+ - undo: visszavonás
+ - redo: megismétlés
+ - control: irányítás
+ - dependency: függőség
+ - install: telepítés
+ - update: frissítés
+ - download: letöltés
+ - browse: böngészés
+ - enable: engedélyezés
+ - disable: letiltás
+ - tags: címkék
+ - upvote: tetszik
+ - downvote: nem tetszik
+ - supporter pack: támogatói csomag
+ - create: készít/elkészít
+ - bailiff: ispán
+ - prosperity: jólét 
+ - edict: rendelet
+ - privilege: kiváltság
+ - mandate: megbízás (not "mandátum")
+ - residential: lakhatási
+ - donations: adományok
+ - tracking: nyomon követés
+ - estate: birtok
+ - common path: közös útvonal
+ - title: cím (rank/noble title)
+ - lord/lady: úr/hölgy
+ - baron/baroness: báró/bárónő
+ - pioneer: úttörő
+ - mayor: polgármester
+ - captain: kapitány
+ - commander: parancsnok
+ - castellan: várnagy
+ - abbot: apát
+ - farm: farm
+ - crops: termények
+ - livestock: állatok
+ - sowing: vetés
+ - harvesting: aratás
+ - growing: növekedés
+ - resting: pihenés
+ - estate influence: birtok befolyás
+ - influence cap: befolyás korlát
+ - rating: értékelés
+ - kingdom: királyság
+ - clergy: papság
+ - labour: munka
+ - job: munkakör
+ - woodcutter: favágó
+ - baker: pék
+ - blacksmith: kovács
+ - builder: építő
+ - master builder: mester építő
+ - jeweller: ékszerész
+ - carpenter: ács
+ - charcoal burner: szénégető
+ - farmer: földműves
+ - forester: erdész
+ - forager: gyűjtögető
+ - innkeeper: kocsmáros
+ - iron smelter: vasfolvasztó
+ - market tender: piaci árus
+ - monastic emissary: szerzetesi küldött
+ - stall: árusítóhely
+ - miller: molnár
+ - miner: bányász
+ - village priest: falusi pap
+ - shepherd: pásztor
+ - stone cutter: kőfaragó
+ - stone mason: kőműves
+ - transporter: szállító
+ - weaver: takács
+ - fisherman: halász
+ - hunter: vadász
+ - tailor: szabó
+ - tax collector: adószedő
+ - cooper: kádár
+ - cheesemaker: sajtgyártó
+ - cook: szakács
+ - taverner: kocsmáros
+ - dairy farm: tehenészet
+ - dairy farmer: tehenész
+ - brewer: főzőmester
+ - hop farmer: komlógazda
+ - glass blower: üvegfúvó
+ - candlemaker: gyertyaöntő
+ - common wares maker: árugyártó
+ - gold smelter: aranyöntő
+ - weaponsmith: fegyverkovács
+ - butcher: mészáros
+ - watchman: őr
+ - barber surgeon: borbély
+ - royal courtier: udvaronc
+ - paviour: útburkoló
+ - patroller: járőr
+ - monastic priest: szerzetes pap
+ - beer: sör
+ - berries: bogyó
+ - bread: kenyér
+ - berry brew: bogyóbor (alcoholic drink from berries)
+ - inn brewery building: bogyóbor főzde (place where berry wine is made)
+ - common clothes: ruházat
+ - cloth: szövet
+ - coal: szén
+ - faith: hit
+ - flour: liszt
+ - glass: üveg
+ - gold: arany
+ - gold coins: aranyérme
+ - coins: érme
+ - grapes: szőlő
+ - hop: komló
+ - iron: vas
+ - iron ore: vasérc
+ - marble: márvány
+ - planks: deszka
+ - polished stone: csiszolt kő
+ - stone: kő
+ - tools: szerszám
+ - water: víz
+ - wheat: búza
+ - wine: bor
+ - wood: fa
+ - wool: gyapjú
+ - boar: vaddisznó
+ - tavern meal: kocsmai étel
+ - monastic meal: kolostori étel
+ - fish: hal
+ - weapons: fegyver
+ - herbs: gyógynövény
+ - gems: drágakő
+ - gold bars: aranyrud
+ - jewelry: ékszer
+ - candles: gyertya
+ - doors: ajtó
+ - signs: tábla
+ - common wares: áru
+ - vegetables: zöldség
+ - simple stew: egyszerű ragu
+ - seneschal: udvarmester
+ - monument: főépület
+ - guivre garden - guivre kertje (guivre is a name of a dragon)
+ - manor: kúria
+ - castle: kastély
+ - elders: Bölcsek
+ - steward: intéző
+ - promotion (monastic context): beavatás
+ - company (guards): egység
+ - austere (objects): dísztelen. "dísztelen pad"
+
+## Quest Description Patterns / Quest leírás minták
+- "I have agreed to deliver..." patterns by estate / "Vállaltam, hogy szállítok..." minták birtok szerint:
+  - Kingdom/King: "[Áru]t szállítok a királyi udvarnak."
+  - Clergy/Bishop: "[Áru] szállításáról állapodtunk meg a püspökkel."
+  - Labour/Elders: "Üzletet kötöttem a Bölcsekkel [áru] eladásáról."
+
+## Success/Failure Title Patterns / Siker/kudarc cím minták
+- Success: "[Áru] sikeresen leszállítva"
+- Failure: "[Áru] szállítás meghiúsult"

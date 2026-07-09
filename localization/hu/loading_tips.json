@@ -1,0 +1,26 @@
+﻿{
+  "LOADING_TIPS": {
+    "LOADING_TIP_PRIORITY_TAX_OFFICE": "Jó stratégia több Adóhivatalt építeni nagy falvak körül.",
+    "LOADING_TIP_PRIORITY_TAX_TRACKER": "Jobb egérgombbal kattints a {1} gombra az Adózási Nyomkövető ki/be kapcsolásához.",
+    "LOADING_TIP_PRIORITY_BUILDER_WORKSHOP_CLOSE": "Helyezd az Építész Műhelyeket közel a nagy építkezésekhez a jobb hatékonyság érdekében.",
+    "LOADING_TIP_PRIORITY_PLAN_DESIRABILITY": "Tervezd meg előre a kívánatos lakásokat, mielőtt előléptetnéd a falusiakat.",
+    "LOADING_TIP_PRIORITY_NEED_PROXY": "A falusiak a lakásuk közelében található szükségleteket elégítik ki.",
+    "LOADING_TIP_PRIORITY_STATUS_PRODUCTIVITY": "Egyes munkahelyek megnövekedett termelékenységet kapnak, ha magasabb státuszú falusiakat alkalmaznak.",
+    "LOADING_TIP_PRIORITY_TOOL_INVESTMENT": "A(z) {1} Szerszámok korai termelése értékes befektetés.",
+    "LOADING_TIP_PRIORITY_TREASURY_LIMIT": "Az érme bevételek, beleértve a küldetés jutalmakat is, a Kincstárad kapacitása által korlátozottak.",
+    "LOADING_TIP_PRIORITY_MONASTIC_WORK": "A szerzetesek kizárólag a kijelölt kolostorukban dolgoznak.",
+    "LOADING_TIP_PRIORITY_STORAGE_EFFICIENCY": "Építs raktárakat a távoli munkahelyek között a szállítási hatékonyság javítása érdekében.",
+    "LOADING_TIP_PRIORITY_HAPPY_COMBATANT": "Egy boldog, jól képzett és jól felfegyverzett Harcos tartós harcos.",
+    "LOADING_TIP_PRIORITY_TOWER_FORTIFICATION": "A Kastély, a Rusztikus Templom és a Kastély tornyai Passzív Védelmet biztosítanak.",
+    "LOADING_TIP_PRIORITY_MONASTERY_AUTONOMOUS": "A kolostorok autonómok; automatikusan osztják ki a munkásokat a munkahelyeikre.",
+    "LOADING_TIP_PRIORITY_BUILDING_BORDER": "Épületek elhelyezésekor figyelj a kék határokra és a bejárati nyilakra, mivel ezek határozzák meg a falusiak mozgását.",
+    "LOADING_TIP_PRIORITY_PATH_DECAY": "A használaton kívüli Földutak idővel leromlanak. A Kőutak nem romlanak le, amíg az Útépítők karbantartják őket {1} Kővel.",
+    "LOADING_TIP_PRIORITY_LEVY_EMERGENCY": "Használd a Dézsma Megbízást a Gyűlésteremben, ha sürgősen pénzre van szükséged.",
+    "LOADING_TIP_PRIORITY_RESOURCE_TRACKER": "Jobb egérgombbal kattints a HUD-on megjelenített erőforrásokra a {1} Nyomkövetőjük be/kikapcsolásához.",
+    "LOADING_TIP_PRIORITY_PROMOTE_VILLAGERS": "A falusiak előléptetése kulcsfontosságú a prosperitáshoz; győződj meg róla, hogy kielégíted az új szükségleteiket.",
+    "LOADING_TIP_PRIORITY_VISIT_HELP": "Tudj meg többet a játékról a képernyőd bal felső sarkában található {1} Súgó Panel meglátogatásával!",
+    "LOADING_TIP_PRIORITY_CLOSE_WINDOWS": "A jobb egérgomb gyorsabban bezárja az ablakokat.",
+    "LOADING_TIP_PRIORITY_VISIBILITY_PANEL": "Kapcsold a falvad információinak megjelenítését a {1} Láthatóság panel használatával.",
+    "LOADING_TIP_PRIORITY_COMMON_DECORATIONS": "Az Általános díszek {1}{2}{3} Pompa vagy {4} Szépítés hozamot adnak, attól függően, hogy részei-e egy főépületnek."
+  }
+}

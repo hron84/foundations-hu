@@ -1,0 +1,32 @@
+﻿{
+  "GENERAL": {
+    "SUPPACK_GUIVRE_BUILDING": "Guivre Kertje - je"
+  },
+  "BUILDING_PART": {
+    "SUPPACK_GUIVRE_ARCHWAY_01A": "Guivre Kertje - boltív",
+    "SUPPACK_GUIVRE_BRAZIER_01A": "Guivre Kertje - tűztál, földi",
+    "SUPPACK_GUIVRE_FLOWER_01A": "Guivre Kertje - virágok, kötél rács",
+    "SUPPACK_GUIVRE_FLOWER_02A": "Guivre Kertje - virágok, finom",
+    "SUPPACK_GUIVRE_FLOWER_03A": "Guivre Kertje - virágok, illatos",
+    "SUPPACK_GUIVRE_HALFWALL_01A": "Guivre Kertje - korlát, egyenes",
+    "SUPPACK_GUIVRE_HALFWALL_02A": "Guivre Kertje - virág, fa rács",
+    "SUPPACK_GUIVRE_HALFWALL_CORNER_01A": "Guivre Kertje - korlát, sarok",
+    "SUPPACK_GUIVRE_HALFWALL_CORNER_02A": "Guivre Kertje - virág, sarok",
+    "SUPPACK_GUIVRE_FOUNTAIN_LARGE_01A": "Guivre Kertje - tó",
+    "SUPPACK_GUIVRE_TORCH_MEDIUM_01A": "Guivre Kertje - tűztál, függő",
+    "SUPPACK_GUIVRE_BASSIN_RECTANGLE_01A": "Guivre Kertje - medence",
+    "SUPPACK_GUIVRE_TORCH_SMALL_01A": "Guivre Kertje - tűztál, oszlop",
+    "SUPPACK_GUIVRE_STATUE_BASILISK_01A": "A megkövesedett baziliszkusz, márvány",
+    "SUPPACK_GUIVRE_STATUE_FISH_01A": "A repülő hal, márvány",
+    "SUPPACK_GUIVRE_STATUE_GUIVRE_01A": "A nagy Guivre, márvány",
+    "SUPPACK_GUIVRE_STATUE_PEDESTAL_01A": "Guivre Kertje - talapzat",
+    "SUPPACK_GUIVRE_STATUE_PINECONE_01A": "A szent toboz, márvány",
+    "SUPPACK_GUIVRE_BENCH_STONE_01A": "Guivre Kertje - pad",
+    "SUPPACK_GUIVRE_PILLAR_01A": "Guivre Kertje - oszlop"
+  },
+  "DESCRIPTION": {
+    "SUPPACK_GUIVRE_BUILDING_DESC": "Jóval azelőtt, hogy a mi birodalmunk létrejött volna, történeteket meséltek a Guivre-ről, egy fenséges, drágakövekkel díszített kígyószerű vadállatról, olyan hatalmas szárnyakkal és olyan éles karmokkal, hogy a juhokat el tudta ragadni az óvatlan pásztorok orra elől!\n\nMapanapság, akár tiszteletből, akár félelemből, a falubeliek ezeket a lenyűgöző emlékműveket építik a hatalmas kígyó tiszteletére.",
+    "SUPPACK_GUIVRE_DECORATIVE_DESC": "További díszítések a Guivre Kertjéhez, hogy a szobraid saját apró világukkal rendelkezhessenek.",
+    "SUPPACK_GUIVRE_STATUE_DESC": "Egyesek szerint ezek a szobrok fenségesek, mások rémisztőnek találják őket, de egy dolog biztos: senkit sem hagynak hidegen."
+  }
+}

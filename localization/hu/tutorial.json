@@ -1,0 +1,33 @@
+﻿{
+  "CONTROLS_ACTION": {
+    "LEFT_CLICK": "Bal kattintás",
+    "LEFT_CLICK_DRAG": "Bal kattintás húzás",
+    "RIGHT_CLICK": "Jobb kattintás",
+    "HOLD_KEY": "{1} nyomva tartása",
+    "HORIZONTAL_MOUSE_MOVEMENT": "Vízszintes egérmozgatás",
+    "MOUSE_WHEEL": "Egérgörgő"
+  },
+  "CONTROLS": {
+    "X_TO_SELECT_PLACE_BUILDING_PART": "{1} egy rész kiválasztásához/elhelyezéséhez",
+    "X_ON_VERTICAL_ARROWS_TO_RESCALE_PART": "{1} a függőleges nyilakon egy rész függőleges átméretezéséhez",
+    "X_TO_DELETE_PART": "{1} egy rész törléséhez",
+    "X_AND_Y_TO_ROTATE_PART": "{1} és {2} egy rész forgatásához",
+    "X_AND_Y_TO_MOVE_BRIDGE": "{1} és {2} híd mozgatásához",
+    "X_AND_Y_TO_KEEP_PART_SELECTION": "{1} és {2} Épületrész elhelyezéséhez és a kiválasztás megtartásához",
+    "X_ON_WALL_NODE_TO_SELECT_PLACE_NEW_NODE": "{1} fal csúcsán új csúcs kiválasztásához/elhelyezéséhez",
+    "X_ON_WALL_SECTION_TO_TOGGLE_WALL_CURVING": "{1} fal szakaszon a fal görbítésének váltásához",
+    "X_AND_Y_TO_EXTEND_EXISTING_WALL": "{1} és {2} meglévő fal kiterjesztéséhez",
+    "X_AND_Y_TO_REMOVE_WALL_NODE_SECTION": "{1} és {2} fal csúcs/szakasz eltávolításához",
+    "X_TO_CANCEL_SELECTION": "{1} kiválasztás visszavonásához",
+    "X_TO_PAINT": "{1} festéshez",
+    "X_TO_ERASE": "{1} törléshez",
+    "X_AND_Y_TO_RESIZE_BRUSH_SIZE": "{1} és {2} ecset méretének változtatásához",
+    "X_TO_INCREASE_BRUSH_SIZE": "{1} ecset méretének növeléséhez",
+    "X_TO_DECREASE_BRUSH_SIZE": "{1} ecset méretének csökkentéséhez",
+    "X_TO_ROTATE_PART": "{1} egy rész mozgatásakor a forgatásához",
+    "X_TO_KEEP_PART_SELECTION": "{1} egy rész elhelyezésekor több elhelyezéséhez",
+    "X_TO_SELECT_CONNECTED": "{1} az összes csatlakozott rész kijelöléséhez",
+    "X_TO_SELECT_ALL": "{1} egy főépület összes részének kijelöléséhez",
+    "X_TO_SELECT_MULTIPLE": "{1} részek kijelölésekor több kijelöléséhez"
+  }
+}

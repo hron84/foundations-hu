@@ -1,0 +1,7 @@
+﻿{
+  "ANALYTICS_POPUP": {
+    "ANALYTICS_POPUP_TITLE": "Analitika és adatvédelem",
+    "ANALYTICS_POPUP_MESSAGE": "Annak érdekében, hogy a Foundation egy nagyszerű városépítő élmény legyen, szeretnénk az engedélyedet kérni néhány információ gyűjtésére a hardveredről és arról, hogyan játszol a játékkal.\n\n Ha elfogadod, csak a Polymorph Games analitikai céljaira gyűjtünk adatokat. Soha nem adjuk el vagy adjuk át az általunk gyűjtött információkat semmilyen cégnek vagy személynek. NEM gyűjtünk személyes információkat, mint név, email, cím, stb.\n\nA gyűjtött adatok között szerepel a számítógéped konfigurációja (például operációs rendszer verziója, CPU márka, GPU márka, RAM mennyiség, stb.) és a játékos viselkedésed (például játékidő hossza, milyen épületeket hozol létre, milyen sorrendben, falud mérete, szépítések használata, stb.).",
+    "ANALYTICS_POPUP_INFO_SENT_ONCE_MESSAGE": "Engedélyeznéd nekünk, hogy csak egyszer küldjük el a következő információkat?"
+  }
+}

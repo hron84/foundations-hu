@@ -1,0 +1,16 @@
+﻿{
+  "MILITARY_GENERAL": {
+    "NOT_ENOUGH_GUARD_DESC": "Nincs elég őr! Rendelj több őrt vagy Harcost Századokhoz járőrözési feladatra.",
+    "CURRENT_GUARD_RATIO_X_PERCENT": "Jelenlegi őrzési lefedettség: {1}",
+    "TOTAL_NUMBER_PATROLLERS": "Járőrök és járőrözési feladatban lévő Harcosok össz száma: {1}",
+    "TOTAL_NUMBER_GUARD_LOCATIONS": "Aktív erődítések össz száma: {1}",
+    "ACTIVE_FORTIFICATION": "Aktív {1} erődítés",
+    "ACTIVE_FORTIFICATION_DESC": "Egy területet {1} erődítéssel fed le. Az őrzési feladatban lévő Harcosok és Őrök időt töltenek ezen hely felügyeletével.",
+    "LIGHT_X_FORTIFICATION": "Könnyű",
+    "HEAVY_X_FORTIFICATION": "Nehéz",
+    "PASSIVE_FORTIFICATION": "Passzív {1} erődítés",
+    "PASSIVE_FORTIFICATION_DESC": "Egy területet {1} erődítéssel fed le anélkül, hogy Őrök vagy Harcosok idejét vené igénybe.",
+    "NEW_COMPANY_X_FORMED": "Egy új {1} egység alakult!",
+    "GUARD_DUTY_COMPANY": "Őr egység"
+  }
+}

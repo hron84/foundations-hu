@@ -1,0 +1,18 @@
+﻿{
+  "GENERAL": {
+    "KICKSTARTER_CHURCH_BUILDING": "Alapítók temploma"
+  },
+  "BUILDING_PART": {
+    "KICKSTARTER_CHURCH_ROOM_01A": "Alapítók hajója",
+    "KICKSTARTER_CHURCH_ROOM_02A": "Alapítók kápolnája",
+    "KICKSTARTER_CHURCH_ROOM_03A": "Alapítók apszisa",
+    "KICKSTARTER_CHURCH_BELLTOWER_01A": "Alapítók harangtornya",
+    "KICKSTARTER_CHURCH_BELLTOWER_02A": "Alapítók hegyes tornya",
+    "KICKSTARTER_CHURCH_ENTRANCE_01A": "Alapítók kapuja, kisebb",
+    "KICKSTARTER_CHURCH_ENTRANCE_02A": "Alapítók kapuja, nagyobb",
+    "KICKSTARTER_CHURCH_CROSS_01A": "Alapítók keresztje"
+  },
+  "DESCRIPTION": {
+    "KICKSTARTER_CHURCH_BUILDING_DESC": "Régen bátor alapítók fogtak össze, hogy felépítsék a falut, amelyre vágytak. Ez a templom emlékező arra, hogy az álmuk valóra vált."
+  }
+}

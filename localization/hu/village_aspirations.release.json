@@ -1,0 +1,22 @@
+﻿{
+  "VICTORY_CONDITIONS": {
+    "VICTORY_CONDITIONS_LIST": "Village Aspirations List",
+    "EDIT_VICTORY_CONDITIONS": "Edit Village Aspirations",
+    "REACH_TOP_CLERGY": "Reach the top of the Clergy Progress Path",
+    "REACH_TOP_KINGDOM": "Reach the top of the Kingdom Progress Path",
+    "REACH_TOP_LABOUR": "Reach the top of the Labour Progress Path"
+  },
+  "VICTORY_CONDITIONS_CELEBRATIONS": {
+    "VC_COMPLETED": "Village Aspiration Completed",
+    "VC_FAILED": "Village Aspiration Failed",
+    "VC_COMPLETED_DESC": "We should be proud of the completion of the following deeds:",
+    "VC_FAILED_DESC": "Unfortunately, we have not been able to reach the following aspiration:",
+    "VC_KINGDOM_FORTRESS_SUCCESS": "Thanks to your war efforts and strategic insight, you made your castle into an impregnable fortress for the realm, bringing honour and glory to your king. You are indeed a hero of the realm!",
+    "VC_CLERGY_PROSPEROUS_PRIORY_SUCCESS": "As the Clergy inaugurates your Abbatial Church, you muse upon what you have achieved. You raised an Abbey of the Faith and assembled a respectful monastic community. There is little doubt that you made this land a better place.",
+    "VC_LABOR_COMMUNE_SUCCESS": "As you pass the City Belfry, you can't help but feel proud. Over time, you have transformed this small serfdom into a thriving village of free folk!"
+  },
+  "CONDITIONS": {
+    "WARN_FAIL_VC_PROSPEROUS_PRIORY_TITLE": "Maximum Villager Population",
+    "WARN_FAIL_VC_PROSPEROUS_PRIORY_DESC": "You have reached the maximum villager population for your current Aspiration. Accepting a new villager will fail the Aspiration.\n\nDo you want to proceed?"
+  }
+}

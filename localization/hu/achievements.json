@@ -1,0 +1,18 @@
+﻿{
+  "ACHIEVEMENTS": {
+    "X_ACHIEVEMENTS_EARNED": "{1} eredmény elérve ({2}%)",
+    "ACHIEVEMENTS_DISABLED_MODS_NOTIFICATION": "Az eredmények le vannak tiltva. Az engedélyezésükhöz indíts új játékot modok nélkül.",
+    "ACHIEVEMENTS_DISABLED_OLD_SAVEGAME_NOTIFICATION": "Az eredmények le vannak tiltva. Az engedélyezésükhöz indíts új játékot vagy tölts be egy mentést újabb játékból.",
+    "ACHIEVEMENTS_DISABLED_WARNING": "Az eredmények nem szerezhetők meg, amíg a modok engedélyezve vannak.",
+    "ACHIEVEMENT_UNLOCKED": "Eredmény feloldva!",
+    "ACHIEVEMENT_PROGRESS": "Eredmény előrehaladás",
+    "X_HIDDEN_ACHIEVEMENTS_REMAINING": "{1} rejtett eredmény",
+    "ACHIEVEMENT_DETAILS_REVEALED_ONCE_UNLOCKED": "Az egyes eredmények részletei a feloldásuk után kerülnek felfedésre",
+    "ACHIEVEMENTS_DISABLED_IN_BUILD": "Az eredmények le vannak tiltva ebben a verzióban",
+    "ACHIEVEMENTS_DISABLED_DS_PRESET_WARNING": "Eredmények letiltva",
+    "ACHIEVEMENTS_DISABLED_DS_PRESET": "Az eredmények nem szerezhetők meg a(z) {1} szabály profillal való játék során.",
+    "SOME_ACHIEVEMENTS_DISABLED_DS_PRESET": "Néhány eredmény nem szerezhető meg a(z) {1} szabály profillal való játék során.",
+    "ACHIEVEMENT_DISABLED_DS_PRESET": "Ez az eredmény nem szerezhető meg a(z) {1} szabály profillal való játék során.",
+    "ACHIEVEMENT_DISABLED_SAVEGAME": "Az eredmények ebben a játékban korábban le voltak tiltva és nem engedélyezhetők újra."
+  }
+}

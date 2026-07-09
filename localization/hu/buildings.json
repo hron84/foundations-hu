@@ -25,7 +25,8 @@
     "DESTROY_MODE": "Bontás mód",
     "MOVE_MODE": "Mozgatás mód",
     "BACK_TO_MONUMENT": "Főépület megtekintése",
-    "REPLACE": "Csere"
+    "REPLACE": "Csere",
+    "CANNOT_SWITCH_FUNCTION": "Nem lehet funkciót váltani az épületen"
   },
   "BUILDINGS": {
     "UNKNOWN_BUILDING": "Ismeretlen épület",
@@ -605,10 +606,11 @@
     "BUILDING_THEME_BLACK": "Fekete",
     "BUILDING_THEME_YELLOW": "Sárga",
     "BUILDING_THEME_RED_BLACK": "Piros és fekete",
-    "BUILDING_THEME_RED_YELLOW": "Piros és sárga"
+    "BUILDING_THEME_RED_YELLOW": "Piros és sárga",
+    "BUILDING_THEME_ORANGE": "Narancs"
   },
   "BUILDING_PART_SETS": {
-    "CORE": "Mag",
+    "CORE": "Központi rész",
     "MANDATORY": "Kötelező",
     "MANDATORY_PARTS": "Kötelező részek",
     "CONSTRUCTION_REQUIREMENTS": "Építési követelmények",

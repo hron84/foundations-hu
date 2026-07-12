@@ -1,22 +1,22 @@
 ﻿{
   "VICTORY_CONDITIONS": {
-    "VICTORY_CONDITIONS_LIST": "Village Aspirations List",
-    "EDIT_VICTORY_CONDITIONS": "Edit Village Aspirations",
-    "REACH_TOP_CLERGY": "Reach the top of the Clergy Progress Path",
-    "REACH_TOP_KINGDOM": "Reach the top of the Kingdom Progress Path",
-    "REACH_TOP_LABOUR": "Reach the top of the Labour Progress Path"
+    "VICTORY_CONDITIONS_LIST": "Falu ambíciók listája",
+    "EDIT_VICTORY_CONDITIONS": "Szerkeszd a falu ambíciókat",
+    "REACH_TOP_CLERGY": "Elérni a papok fejlődési útjának csúcsát",
+    "REACH_TOP_KINGDOM": "Elérni a királyság fejlődési útjának csúcsát",
+    "REACH_TOP_LABOUR": "Elérni a munkások fejlődési útjának csúcsát"
   },
   "VICTORY_CONDITIONS_CELEBRATIONS": {
-    "VC_COMPLETED": "Village Aspiration Completed",
-    "VC_FAILED": "Village Aspiration Failed",
-    "VC_COMPLETED_DESC": "We should be proud of the completion of the following deeds:",
-    "VC_FAILED_DESC": "Unfortunately, we have not been able to reach the following aspiration:",
-    "VC_KINGDOM_FORTRESS_SUCCESS": "Thanks to your war efforts and strategic insight, you made your castle into an impregnable fortress for the realm, bringing honour and glory to your king. You are indeed a hero of the realm!",
-    "VC_CLERGY_PROSPEROUS_PRIORY_SUCCESS": "As the Clergy inaugurates your Abbatial Church, you muse upon what you have achieved. You raised an Abbey of the Faith and assembled a respectful monastic community. There is little doubt that you made this land a better place.",
-    "VC_LABOR_COMMUNE_SUCCESS": "As you pass the City Belfry, you can't help but feel proud. Over time, you have transformed this small serfdom into a thriving village of free folk!"
+    "VC_COMPLETED": "Falu ambíció teljesítve",
+    "VC_FAILED": "Falu ambíció elérése sikertelen",
+    "VC_COMPLETED_DESC": "Büszkék lehetünk a következő tettek teljesítésére:",
+    "VC_FAILED_DESC": "Sajnos nem sikerült elérnünk a következő ambíciót:",
+    "VC_KINGDOM_FORTRESS_SUCCESS": "Háborús erőfeszítéseidnek és stratégiai éleslátásodnak köszönhetően váradat bevehetetlen erődítménnyé tetted a birodalom számára, tiszteletet és dicsőséget hozva királyodnak. Valóban a birodalom hőse vagy!",
+    "VC_CLERGY_PROSPEROUS_PRIORY_SUCCESS": "Amikor az egyház felszenteli az apátsági templomodat, elgondolkodsz azon, amit elértél. Felépítettél egy hithű apátságot, és összegyűjtöttél egy tisztelettudó kolostori közösséget. Nem kétséges, hogy jobb hellyé tetted ezt a földet.",
+    "VC_LABOR_COMMUNE_SUCCESS": "Ahogy elhaladsz a falu harangtornya mellett, nem tudod nem érezni a büszkeséget. Idővel ezt a kis jobbágyfalut virágzó szabad emberek falujává alakítottad!"
   },
   "CONDITIONS": {
-    "WARN_FAIL_VC_PROSPEROUS_PRIORY_TITLE": "Maximum Villager Population",
-    "WARN_FAIL_VC_PROSPEROUS_PRIORY_DESC": "You have reached the maximum villager population for your current Aspiration. Accepting a new villager will fail the Aspiration.\n\nDo you want to proceed?"
+    "WARN_FAIL_VC_PROSPEROUS_PRIORY_TITLE": "Maximális falusi lakosság elérve",
+    "WARN_FAIL_VC_PROSPEROUS_PRIORY_DESC": "Elérted a maximális falusi lakosságot a jelenlegi ambíciódhoz. Egy új falusi lakos elfogadása meghiúsítja az ambíciót.\n\nFolytatni szeretnéd?"
   }
 }

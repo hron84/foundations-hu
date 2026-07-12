@@ -445,7 +445,7 @@
     "INSTALLED_MODS": "Telepített",
     "BROWSE_MODS": "Böngészés",
     "MODS_DISABLED_IN_BUILD": "A modok ki vannak kapcsolva ebben a verzióban",
-    "MENU_MODS_DESC": "Néhány mod függőségekkel rendelkezhet. Győződj meg róla, hogy a megfelelő sorrendben töltöd be a modjaidat (húzd és ejtsd az átrendezéshez, szülő először).",
+    "MENU_MODS_DESC": "Néhány mod függőségekkel rendelkezhet. Győződj meg róla, hogy a megfelelő sorrendben töltöd be a modjaidat (húzd és ejtsd az átrendezéshez,  szülő először).",
     "INSTALLED": "Telepítve"
   },
   "MENU_MODS_INSTALLED": {
